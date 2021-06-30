@@ -1,0 +1,60 @@
+body{
+    background-color:lightsteelblue;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+
+    
+}
+div{
+    background-color: deepskyblue;
+}
+h1{
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento',cursive;
+}
+h2{
+    font-family: 'Monsterrat',sans-serif;
+}
+p{
+font-family: 'Monsterrat',sans-serif;
+    
+}
+.top-container{
+    background-color:lightskyblue;
+    border: 10px;
+    padding-top: 100px;
+}
+.middle-container{
+    background-color:white;
+    width: 200px;
+    height: 200px;
+}
+.lower-container{
+      background-color:limegreen;
+      width: 200px;
+      height: 200px;
+}
+.pro{
+    text-decoration: underline;
+}
+img{
+    
+}
+.c1{
+     position: relative;
+     left: 200px;
+     top: 5px;
+}
+.c2{
+    position: absolute;
+    right: 300px;
+     
+}
+.c3{
+    position: absolute;
+     
+}
+.m1{
+     
+}
