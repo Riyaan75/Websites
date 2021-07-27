@@ -1,0 +1,6 @@
+function HouseKeeper(yearOfExperience,name,cleaningPart)
+{
+    this.yearOfExperience=yearOfExperience;
+    this.name=name;
+    this.cleaningPart=cleaningPart;
+}
